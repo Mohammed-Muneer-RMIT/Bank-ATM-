@@ -1,0 +1,1 @@
+Design notes: simple CSV persistence + salted std::hash demo.
